@@ -10,16 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Social & Platform Badges (Uniform logo-only style) -->
+<!-- Social & Platform Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/realAmanShah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/realAmanShah"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&logoColor=white&color=0A66C2&label=&style=flat-square" alt="LinkedIn" /></a>
   <a href="https://x.com/AmanShahX"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/realamanshah_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://t.me/realAmanShah"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://youtube.com/@realAmanShah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.reddit.com/user/realAmanShah"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://discord.com/users/1487278699521773723"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.chess.com/member/realAmanShah"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=flat-square&logo=chess.com&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://www.chess.com/member/realAmanShah"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
 </p>
 
 </div>

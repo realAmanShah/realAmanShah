@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Colorful Animated Dynamic Header with Gradient Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35,42&height=280&section=header&text=Aman%20Shah&fontSize=85&fontColor=gradient&customTextColors=0,ff9a9e,fecfef,a1c4fd,c2e9fb&fontAlignY=38&animation=twinkling&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
+<!-- High-Contrast Vibrant Multi-Color Gradient with Typewriting Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,24,30&height=280&section=header&text=Aman%20Shah&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=typewriting&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
 
 <!-- Status & Dynamic Counters -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Focusing_%26_Building-007acc?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-007acc?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/github/followers/realAmanShah?label=Followers&style=for-the-badge&color=24292e" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -38,4 +38,4 @@
 ### 🛠️ Domains & Tech Stack
 
 ```text
-Physics • Mathematics • Computer Science • Android Modding • Git & GitHub • Python • AI/LLM Tools • Reverse Engineering
+Physics • Mathematics • Computer Science • Space

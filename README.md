@@ -3,22 +3,22 @@
 <!-- High-Contrast Vibrant Multi-Color Gradient with Typewriting Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,24,30&height=280&section=header&text=Aman%20Shah&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=typewriting&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
 
-<!-- Status & Dynamic Counters -->
+<!-- Status & Dynamic Counters (Gradient) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-007acc?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/github/followers/realAmanShah?label=Followers&style=for-the-badge&color=24292e" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://badgen.net/badge/Status/Learning%20%26%20Building/007acc..00c6ff" alt="Status" />
+  <img src="https://badgen.net/badge/Followers/5/24292e..434343?icon=github" alt="Followers" />
+  <img src="https://badgen.net/badge/Profile%20Views/103/f857a6..ff5858" alt="Profile Views" />
 </p>
 
-<!-- Social & Platform Badges -->
+<!-- Social & Platform Badges (Smooth Gradients with Official Logos) -->
 <p align="center">
-  <a href="https://linkedin.com/in/realAmanShah"><img src="https://raster.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/AmanShahX"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/realamanshah_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://t.me/realAmanShah"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://youtube.com/@realAmanShah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.reddit.com/user/realAmanShah"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://www.chess.com/member/realAmanShah"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://linkedin.com/in/realAmanShah"><img src="https://badgen.net/badge/LinkedIn/Aman%20Shah/0077b5..0e76a8?icon=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/AmanShahX"><img src="https://badgen.net/badge/X/@AmanShahX/000000..434343?icon=twitter" alt="X" /></a>
+  <a href="https://instagram.com/realamanshah_"><img src="https://badgen.net/badge/Instagram/@realamanshah_/8a3ab9..fbad50?icon=instagram" alt="Instagram" /></a>
+  <a href="https://t.me/realAmanShah"><img src="https://badgen.net/badge/Telegram/@realAmanShah/0088cc..29b6f6?icon=telegram" alt="Telegram" /></a>
+  <a href="https://youtube.com/@realAmanShah"><img src="https://badgen.net/badge/YouTube/@realAmanShah/ff0000..e52d27?icon=youtube" alt="YouTube" /></a>
+  <a href="https://www.reddit.com/user/realAmanShah"><img src="https://badgen.net/badge/Reddit/u%2FrealAmanShah/ff4500..ff6a00" alt="Reddit" /></a>
+  <a href="https://www.chess.com/member/realAmanShah"><img src="https://badgen.net/badge/Chess.com/realAmanShah/5b8c3b..81b64c" alt="Chess.com" /></a>
 </p>
 
 </div>
@@ -33,6 +33,7 @@
 - ⚡ **Exploring:** Android application reverse engineering, smali/dex patching, Git workflows, and triage on open-source repositories.
 - ♟️ **Recreation:** Solving tactical puzzles and rapid play on [Chess.com](https://www.chess.com/member/realAmanShah).
 
+---
 
 ### 🛠️ Domains & Tech Stack
 

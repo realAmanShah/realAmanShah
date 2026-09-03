@@ -33,28 +33,8 @@
 - ⚡ **Exploring:** Android application reverse engineering, smali/dex patching, Git workflows, and triage on open-source repositories.
 - ♟️ **Recreation:** Solving tactical puzzles and rapid play on [Chess.com](https://www.chess.com/member/realAmanShah).
 
----
-
-### 🛡️ SponsorBlock Contributions
-
-<p align="left">
-  <!-- Verified Segments Badge -->
-  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
-    <img src="https://img.shields.io/badge/SponsorBlock-2%2C877%20Segments%20Submitted-CC0000?style=flat-square&logo=youtube&logoColor=white" alt="Segments Submitted" />
-  </a>
-  &nbsp;
-  <!-- Verified Time Saved Badge -->
-  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
-    <img src="https://img.shields.io/badge/Time%20Saved-4%20Years%2C%205%20Months-2EA44F?style=flat-square&logo=clock&logoColor=white" alt="Time Saved" />
-  </a>
-  &nbsp;
-  <!-- Views Saved Badge -->
-  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
-    <img src="https://img.shields.io/badge/Views%20Impact-4.3M%2B%20Saved-0A66C2?style=flat-square" alt="Views Impact" />
-  </a>
-</p>
 
 ### 🛠️ Domains & Tech Stack
 
 ```text
-Physics • Mathematics • Technology • Space
+Physics • Technology • Space

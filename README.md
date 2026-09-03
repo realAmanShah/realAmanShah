@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- High-Contrast Vibrant Multi-Color Gradient with Typewriting Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,24,30&height=280&section=header&text=Aman%20Shah&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=typewriting&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35,42&height=280&section=header&text=Aman%20Shah&fontSize=85&fontColor=gradient&customTextColors=0,ff9a9e,fecfef,a1c4fd,c2e9fb&fontAlignY=38&animation=twinkling&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
 
 <!-- Status & Metrics Gradient Badges -->
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Status&message=Learning%20%26%20Building&color=007acc&labelColor=2b1055&style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/static/v1?label=Followers&message=5&color=434343&labelColor=181717&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
- <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
+   <img src="https://img.shields.io/github/followers/realAmanShah?label=Followers&style=for-the-badge&color=24292e" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Social & Platform Dual-Tone / Gradient Badges -->

@@ -35,6 +35,17 @@
 
 ---
 
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://www.kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+</p>
 ### 🛠️ Domains & Tech Stack
 
 ```text

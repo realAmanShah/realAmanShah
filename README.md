@@ -35,18 +35,26 @@
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛡️ SponsorBlock Contributions
 
 <p align="left">
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
-  <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://www.kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <!-- Verified Segments Badge -->
+  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
+    <img src="https://img.shields.io/badge/SponsorBlock-2%2C877%20Segments%20Submitted-CC0000?style=flat-square&logo=youtube&logoColor=white" alt="Segments Submitted" />
+  </a>
+  &nbsp;
+  <!-- Verified Time Saved Badge -->
+  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
+    <img src="https://img.shields.io/badge/Time%20Saved-4%20Years%2C%205%20Months-2EA44F?style=flat-square&logo=clock&logoColor=white" alt="Time Saved" />
+  </a>
+  &nbsp;
+  <!-- Views Saved Badge -->
+  <a href="https://sb.ltn.fi/userid/bb600b20655f6aface48a6fec42078ab3d2495020074384023d47dc414252838" target="_blank">
+    <img src="https://img.shields.io/badge/Views%20Impact-4.3M%2B%20Saved-0A66C2?style=flat-square" alt="Views Impact" />
+  </a>
 </p>
+
 ### 🛠️ Domains & Tech Stack
 
 ```text
-Physics • Mathematics • Computer Science • Space
+Physics • Mathematics • Technology • Space

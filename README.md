@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Dynamic Header (Maximized text size and height filling the gradient wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=260&section=header&text=Aman%20Shah&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=260&section=header&text=Aman%20Shah&fontSize=100&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- Status & Dynamic Counters -->
 <p align="center">
@@ -39,4 +39,4 @@
 ### 🛠️ Domains & Tech Stack
 
 ```text
-Physics • Mathematics • Computer Science • Android Modding • Git & GitHub • Python • Smali • AI/LLM Tools • Reverse Engineering
+Physics • Mathematics • Computer Science • Android Modding • Git & GitHub • Python • AI/LLM Tools • Reverse Engineering

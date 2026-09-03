@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- High-Contrast Vibrant Multi-Color Gradient with Typewriting Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,24,30&height=280&section=header&text=Aman%20Shah&fontSize=85&fontColor=gradient&customTextColors=0,ff9a9e,fecfef,a1c4fd,c2e9fb&fontAlignY=38&animation=twinkling&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,24,30&height=280&section=header&text=Aman%20Shah&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Physics%20%20•%20%20Tech%20%20•%20%20AI%20%20•%20%20Space&descSize=22&descAlignY=65&descColor=ffffff" width="100%" alt="Header" />
 
 <!-- Status & Metrics Gradient Badges -->
 <p align="center">

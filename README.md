@@ -18,7 +18,6 @@
   <a href="https://t.me/realAmanShah"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://youtube.com/@realAmanShah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.reddit.com/user/realAmanShah"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://discord.com/users/1487278699521773723"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.chess.com/member/realAmanShah"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
 </p>
 

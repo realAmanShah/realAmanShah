@@ -50,10 +50,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=realAmanShah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=realAmanShah&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ### 🛠️ Domains & Tech Stack
 

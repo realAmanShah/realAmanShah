@@ -24,8 +24,6 @@
 </p>
 </div>
 
----
-
 ### 📌 About Me
 
 > High school student & tech enthusiast exploring physics, applied computation, and the inner workings of systems. Currently preparing for **IIT JEE** alongside building and experimenting with open-source tools.
@@ -40,16 +38,10 @@
 ![](https://streak-stats.demolab.com/?user=realAmanShah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=realAmanShah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=realAmanShah&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realAmanShah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ### 🛠️ Domains & Tech Stack
 

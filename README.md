@@ -19,17 +19,16 @@
   <a href="https://instagram.com/realamanshah_"><img src="https://img.shields.io/static/v1?label=Instagram&message=@realamanshah_&color=f09433&labelColor=bc1888&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://t.me/realAmanShah"><img src="https://img.shields.io/static/v1?label=Telegram&message=@realAmanShah&color=29b6f6&labelColor=0088cc&style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://youtube.com/@realAmanShah"><img src="https://img.shields.io/static/v1?label=YouTube&message=@realAmanShah&color=ff4b1f&labelColor=ff0000&style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+   
   <a href="https://www.reddit.com/user/realAmanShah"><img src="https://img.shields.io/static/v1?label=Reddit&message=u/realAmanShah&color=ff6a00&labelColor=ff4500&style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://www.chess.com/member/realAmanShah"><img src="https://img.shields.io/static/v1?label=Chess.com&message=@realAmanShah&color=81b64c&labelColor=4b712c&style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
 </p>
 </div>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=realAmanShah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=realAmanShah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=realAmanShah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)

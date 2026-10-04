@@ -24,14 +24,6 @@
 </p>
 </div>
 
-### 📌 About Me
-
-> High school student & tech enthusiast exploring physics, applied computation, and the inner workings of systems. Currently preparing for **IIT JEE** alongside building and experimenting with open-source tools.
-
-- 🔭 **Interests:** Physics, Technology, Space Systems, Artificial Intelligence, and Architecture of Software.
-- ⚡ **Exploring:** Android application reverse engineering, smali/dex patching, Git workflows, and triage on open-source repositories.
-- ♟️ **Recreation:** Solving tactical puzzles and rapid play on [Chess.com](https://www.chess.com/member/realAmanShah).
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=realAmanShah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -42,8 +34,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
-### 🛠️ Domains & Tech Stack
-
-```text
-Physics • Technology • Space • Adventure

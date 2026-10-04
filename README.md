@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- High-Contrast Vibrant Multi-Color Gradient with Typewriting Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aman%20Shah&descAlign=60&reversal=true&animation=blinking&textBg=false&fontAlign=50&fontAlignY=50&strokeWidth=7&fontSize=120" width="100%" alt="Header" />
 
-<!-- Status & Metrics Gradient Badges -->
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Status&message=Learning%20%26%20Building&color=007acc&labelColor=2b1055&style=for-the-badge" alt="Status" />
    <img src="https://img.shields.io/github/followers/realAmanShah?label=Followers&style=for-the-badge&color=24292e" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=realAmanShah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Social & Platform Dual-Tone / Gradient Badges -->
 <p align="center">
  <p align="center">
-  <!-- Embedded SVG LinkedIn (Bypasses SimpleIcons removal) -->
+
   <a href="https://linkedin.com/in/realAmanShah"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=in/realAmanShah&color=00c6ff&labelColor=0072ff&style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTE5IDBIM0MxLjM0IDAgMCAxLjM0IDAgM3YxOGMwIDEuNjYgMS4zNCAzIDMgM2gxNmMxLjY2IDAgMy0xLjM0IDMtM1YzYzAtMS42Ni0xLjM0LTMtMy0zem0tMTIgMTlINlY5aDN2MTB6bS0xLjUtMTEuMjhjLS45NyAwLTEuNzUtLjc5LTEuNzUtMS43NXMudDgtMS43NSAxLjc1LTEuNzUgMS43NS43OSAxLjc1IDEuNzUtLjc5IDEuNzUtMS43NSAxLjc1em0xMy41IDExLjI4aC0zdi01LjVjMC0xLjM4LS4wMy0zLjE2LTEuOTMtMy4xNi0xLjkzIDAtMi4yMyAxLjUxLTIuMjMgMy4wNXY1LjYxaC0zVjlwaDIuODh2MS4zMmgwLjA0Yy40LS43NiAxLjM4LTEuNTYgMi44NC0xLjU2IDMuMDRlMCAzLjYgMiA2LjYgNXY1LjY4eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="https://x.com/AmanShahX"><img src="https://img.shields.io/static/v1?label=X&message=@AmanShahX&color=434343&labelColor=000000&style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/realamanshah_"><img src="https://img.shields.io/static/v1?label=Instagram&message=@realamanshah_&color=f09433&labelColor=bc1888&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
